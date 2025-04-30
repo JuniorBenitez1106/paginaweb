@@ -1,3 +1,7 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&family=UnifrakturMaguntia&display=swap');
+</style>
+
 #Titulo1{
 	font-family: "Monsieur La Doulaise", cursive;
 	color: #cd4e33;
@@ -27,3 +31,4 @@ h2{
 	transform: rotate(-45deg);
 
 }
+
