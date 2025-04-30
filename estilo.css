@@ -1,3 +1,29 @@
 #Titulo1{
 	font-family: "Monsieur La Doulaise", cursive;
+	color: #cd4e33;
+	text-align: center;
+	background-color: black;
+	font-size: 5.2rem;
+}
+
+.articulo{
+	background-color: #33b1da;
+	width: 68%;
+	margin: 100px 32px 32px 100px ;
+	padding: 100px 32px 32px 100px;
+	border-radius: 16px 32px 168px 168px;
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+img{
+
+	border-radius: 20px;
+}
+
+h2{
+	font-family: "UnifrakturMaguntia", cursive;
+	width: 120%;
+	transform: rotate(-45deg);
+
 }
